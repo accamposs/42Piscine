@@ -1,0 +1,5 @@
+Credentials cache: API:721909BE-7F42-42DD-B3F6-8627EDB8C967
+        Principal: catperei@42LISBOA.COM
+
+  Issued                Expires               Principal
+Jan  5 10:53:32 2021  Jan  5 20:53:32 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
